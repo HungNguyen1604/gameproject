@@ -1,0 +1,4 @@
+id	name	description	mission_type	scene_name	waves	reward
+1	First Day	First Day	1	Game_01	1:2:3	1
+2	Night	Night	2	Game_02	2:4:5	2
+3	Boss	Boss	3	Game_01	2:6:7:8	3
